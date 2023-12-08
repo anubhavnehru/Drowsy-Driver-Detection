@@ -25,4 +25,22 @@ To get started with the project, clone this repository to your local machine. En
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [repository URL]
+   
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Usage
+Open the Jupyter notebooks in the repository to view the project's code and visualizations. Each notebook is well-documented to facilitate easy understanding and navigation.
+
+## Contributing
+Contributions to the project are welcome. If you wish to contribute, please fork the repository and submit a pull request with your proposed changes. Ensure that your code adheres to the existing coding standards and include tests where applicable.
+
+## Team
+This project is the result of collaborative efforts by Aakash Dhruva, Alex Kim, Anubhav Nehru, Daniel Lievano, Ian McIntosh. 
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
