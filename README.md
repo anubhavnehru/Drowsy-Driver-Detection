@@ -25,7 +25,7 @@ To get started with the project, clone this repository to your local machine. En
 ### Installation
 1. Clone the repository:
    ```bash
-   Drowsy_Driver_Detection.ipynb
+   https://github.com/aakashdhruva/Drowsy-Driver-Detection/blob/main/Drowsy_Driver_Detection.ipynb
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
