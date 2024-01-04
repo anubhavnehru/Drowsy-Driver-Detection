@@ -1,5 +1,7 @@
 # Drowsy Driver Detection Project
 
+Slide Link - [Here](https://docs.google.com/presentation/d/14jIWIyvh4M7K6Z44gbs4Dh5dCn4qeQCZpWenl7JfuGU/edit?usp=sharing)
+Medium Article - [Here](https://medium.com/@anubhavnehru046/driver-drowsiness-identification-to-prevent-road-accidents-using-cnns-01505820b45d)
 ## Introduction
 Welcome to the Drowsy Driver Detection Project. This repository hosts a machine learning-based solution aimed at detecting driver drowsiness in real-time. Our approach utilizes advanced Convolutional Neural Network (CNN) models to analyze video data, thereby contributing to road safety by identifying early signs of driver fatigue.
 
