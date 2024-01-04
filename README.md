@@ -4,7 +4,7 @@ Slide Link - [Here](https://docs.google.com/presentation/d/14jIWIyvh4M7K6Z44gbs4
 <br>
 Medium Article - [Here](https://medium.com/@anubhavnehru046/driver-drowsiness-identification-to-prevent-road-accidents-using-cnns-01505820b45d)
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XfWszr6PaOjeCWzAhQ3ZXA.jpeg" width="800" height="500">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XfWszr6PaOjeCWzAhQ3ZXA.jpeg">
 
 
 ## Introduction
